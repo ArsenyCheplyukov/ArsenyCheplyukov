@@ -1,27 +1,28 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750"/>
 </div>
 
-# 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝔸𝕣𝕤𝕖𝕟𝕪'𝕤 𝔾𝕚𝕥𝕃𝕒𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖! 👋
+# 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝔸𝕣𝕤𝕖𝕟𝕪'𝕤 𝔾𝕚𝕥𝕃𝕒𝕓 𝐏𝕣𝕠𝕗𝕚𝕝𝕖! 👋
+ℍ𝚎𝚕𝚕𝚘! 𝕀'𝚖 𝙰𝚛𝚜𝚎𝚗𝚢, 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜, 𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚊𝚗𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐. 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚊𝚝 𝚖𝚊𝚔𝚎 𝚊 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚌𝚎.
+## :man_technologist: 𝕬𝖇𝖔𝖚𝖙 𝖒𝖊
+𝕄𝚢 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚊𝚜 𝚊 𝚋𝚞𝚍𝚍𝚒𝚗𝚐 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚋𝚎𝚐𝚊𝚗 𝚒𝚗 𝚑𝚒𝚐𝚑 𝚜𝚌𝚑𝚘𝚘𝚕. 
 
-## 𝕬𝖇𝖔𝖚𝖙 𝖒𝖊
-𝓗𝓮𝓵𝓵𝓸! 𝓘'𝓶 𝓐𝓻𝓼𝓮𝓷𝔂, 𝓪 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝔀𝓲𝓽𝓱 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮 𝓲𝓷 𝓿𝓪𝓻𝓲𝓸𝓾𝓼 𝓽𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼, 𝓲𝓷𝓬𝓵𝓾𝓭𝓲𝓷𝓰 𝓶𝓪𝓬𝓱𝓲𝓷𝓮 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰, 𝔀𝓮𝓫 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽, 𝓪𝓷𝓭 𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰. 𝓘 𝓵𝓸𝓿𝓮 𝓬𝓻𝓮𝓪𝓽𝓲𝓷𝓰 𝓲𝓷𝓷𝓸𝓿𝓪𝓽𝓲𝓿𝓮 𝓼𝓸𝓵𝓾𝓽𝓲𝓸𝓷𝓼 𝓽𝓱𝓪𝓽 𝓶𝓪𝓴𝓮 𝓪 𝓭𝓲𝓯𝓯𝓮𝓻𝓮𝓷𝓬𝓮.
+𝕀𝚝 𝚊𝚕𝚕 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚠𝚒𝚝𝚑 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚘𝚕𝚢𝚖𝚙𝚒𝚊𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚒𝚗 𝚌++ 𝚊𝚗𝚍 𝚌 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 𝙸 𝚝𝚒𝚗𝚔𝚎𝚛𝚎𝚍 𝚠𝚒𝚝𝚑 𝚜𝚒𝚖𝚙𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚟𝚘𝚟𝚒𝚗𝚐 𝚊𝚛𝚍𝚞𝚒𝚗𝚘 𝚊𝚗𝚍 𝚋𝚊𝚜𝚒𝚌 𝚎𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜, 𝚐𝚞𝚒𝚍𝚎𝚍 𝚋𝚢 𝚋𝚘𝚘𝚔𝚜 𝚊𝚗𝚍 𝚟𝚒𝚍𝚎𝚘𝚜. 𝙰𝚜 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚐𝚛𝚎𝚠 𝚒𝚗 𝚌𝚘𝚖𝚙𝚕𝚎𝚡𝚒𝚝𝚢, 𝙸 𝚟𝚎𝚗𝚝𝚞𝚛𝚎𝚍 𝚒𝚗𝚝𝚘 𝚊 𝚙𝚕𝚎𝚝𝚑𝚘𝚛𝚊 𝚘𝚏 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 - 𝚔𝚘𝚝𝚕𝚒𝚗, 𝚓𝚊𝚟𝚊, 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝, 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚝𝚛𝚒𝚏𝚎𝚌𝚝𝚊 𝚘𝚏 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝: 𝚑𝚝𝚖𝚕, 𝚌𝚜𝚜, 𝚊𝚗𝚍 𝚊𝚗𝚍𝚛𝚘𝚒𝚍. 𝙰 𝚜𝚒𝚐𝚗𝚒𝚏𝚒𝚌𝚊𝚗𝚝 𝚝𝚞𝚛𝚗𝚒𝚗𝚐 𝚙𝚘𝚒𝚗𝚝 𝚠𝚊𝚜 𝚖𝚢 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙿𝚢𝚝𝚑𝚘𝚗 𝚍𝚞𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚎𝚗𝚒𝚘𝚛 𝚢𝚎𝚊𝚛. 𝙸 𝚍𝚊𝚋𝚋𝚕𝚎𝚍 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗, 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚜𝚒𝚖𝚙𝚕𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚃𝚎𝚗𝚜𝚘𝚛𝙵𝚕𝚘𝚠 𝚏𝚘𝚛 𝚍𝚒𝚐𝚒𝚝 𝚛𝚎𝚌𝚘𝚐𝚗𝚒𝚝𝚒𝚘𝚗. 𝚃𝚑𝚒𝚜 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚌𝚘𝚍𝚒𝚗𝚐 𝚙𝚎𝚛𝚜𝚒𝚜𝚝𝚎𝚍 𝚊𝚜 𝙸 𝚎𝚗𝚝𝚎𝚛𝚎𝚍 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢. 𝙸𝚗𝚒𝚝𝚒𝚊𝚕𝚕𝚢, 𝙸 𝚞𝚗𝚍𝚎𝚛𝚝𝚘𝚘𝚔 𝚌𝚘𝚞𝚛𝚜𝚎𝚜 𝚘𝚗 𝙷𝚊𝚋𝚛 𝚊𝚗𝚍 𝚂𝚝𝚎𝚙𝚒𝚔, 𝚘𝚏𝚏𝚎𝚛𝚎𝚍 𝚋𝚢 𝚎𝚜𝚝𝚎𝚎𝚖𝚎𝚍 𝚒𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚒𝚘𝚗𝚜 𝚕𝚒𝚔𝚎 𝚂𝚊𝚖𝚜𝚞𝚗𝚐, 𝚈𝚊𝚗𝚍𝚎𝚡, 𝚊𝚗𝚍 𝙼𝙸𝙿𝚃. 𝚃𝚑𝚒𝚜 𝚠𝚊𝚜 𝚝𝚑𝚎 𝚒𝚗𝚌𝚎𝚙𝚝𝚒𝚘𝚗 𝚘𝚏 𝚖𝚢 𝚍𝚎𝚎𝚙 𝚍𝚒𝚟𝚎 𝚒𝚗𝚝𝚘 𝙿𝚢𝚃𝚘𝚛𝚌𝚑, 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚠𝚊𝚜 𝚌𝚊𝚙𝚝𝚒𝚟𝚊𝚝𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚛𝚎𝚊𝚕𝚖 𝚘𝚏 𝚊𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎. 𝚃𝚑𝚒𝚜 𝚙𝚑𝚊𝚜𝚎 𝚕𝚊𝚜𝚝𝚎𝚍 𝚏𝚘𝚛 𝚊𝚋𝚘𝚞𝚝 𝚊 𝚢𝚎𝚊𝚛.
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
-
+𝕃𝚊𝚝𝚎𝚛, 𝙸 𝚜𝚎𝚌𝚞𝚛𝚎𝚍 𝚊 𝚙𝚊𝚛𝚝-𝚝𝚒𝚖𝚎 𝚙𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝚊𝚝 𝚖𝚢 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢'𝚜 𝚍𝚎𝚙𝚊𝚛𝚝𝚖𝚎𝚗𝚝. 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕𝚕𝚢, 𝙸 𝚠𝚘𝚛𝚔𝚎𝚍 𝚠𝚒𝚝𝚑 𝚖𝚒𝚌𝚛𝚘𝚌𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚎𝚛𝚜 𝚏𝚘𝚛 𝚜𝚒𝚡 𝚖𝚘𝚗𝚝𝚑𝚜, 𝚋𝚞𝚝 𝚒𝚗 𝚛𝚎𝚊𝚕𝚒𝚝𝚢, 𝚖𝚢 𝚝𝚎𝚗𝚞𝚛𝚎 𝚎𝚡𝚝𝚎𝚗𝚍𝚎𝚍 𝚝𝚘 𝚊 𝚛𝚎𝚠𝚊𝚛𝚍𝚒𝚗𝚐 𝚝𝚠𝚘 𝚢𝚎𝚊𝚛𝚜. 𝚃𝚑𝚛𝚘𝚞𝚐𝚑𝚘𝚞𝚝 𝚝𝚑𝚒𝚜 𝚙𝚎𝚛𝚒𝚘𝚍, 𝙸 𝚛𝚎𝚖𝚊𝚒𝚗𝚎𝚍 𝚒𝚗𝚜𝚊𝚝𝚒𝚊𝚋𝚕𝚎 𝚒𝚗 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚊 𝚖𝚞𝚕𝚝𝚒𝚝𝚞𝚍𝚎 𝚘𝚏 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚟𝚊𝚛𝚒𝚎𝚍 𝚊𝚙𝚙𝚛𝚘𝚊𝚌𝚑𝚎𝚜. 𝙽𝚘𝚝𝚊𝚋𝚕𝚢, 𝙸 𝚊𝚌𝚌𝚞𝚖𝚞𝚕𝚊𝚝𝚎𝚍 𝚊 𝚛𝚒𝚌𝚑 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚘𝚏 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜, 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚋𝚘𝚝𝚜 𝚊𝚗𝚍 𝚎𝚝𝚌. 𝚊𝚕𝚖𝚘𝚜𝚝 𝚊𝚕𝚕 𝚞𝚜𝚒𝚗𝚐 𝚍𝚒𝚜𝚝𝚒𝚗𝚌𝚝 𝙿𝚢𝚝𝚑𝚘𝚗 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜.
 
 ## 𝕾𝖐𝖎𝖑𝖑𝖘
-- **𝔓𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔦𝔫𝔤 𝔩𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰**: Python, JavaScript, C++
-- **𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔦𝔢𝔰**: React, Node.js, Docker
-- **𝔉𝔯𝔞𝔪𝔢𝔴𝔬𝔯𝔨𝔰**: Django, React Native
+- ### **𝔓𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔦𝔫𝔤 𝔩𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰**:
+        Python, JavaScript, C++
+- ### **𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔦𝔢𝔰**: 
+        React, Node.js, Docker
+- ### **𝔉𝔯𝔞𝔪𝔢𝔴𝔬𝔯𝔨𝔰**:
+        Django, React Native
 
 ## 𝕰𝖉𝖚𝖈𝖆𝖙𝖎𝖔𝖓
-- **𝔇𝔢𝔤𝔯𝔢𝔢**: 𝔅𝔞𝔠𝔥𝔢𝔩𝔬𝔯 𝔬𝔣 ℜ𝔞𝔡𝔦𝔬𝔭𝔥𝔶𝔰𝔦𝔠𝔰 𝔞𝔫𝔡 ℭ𝔬𝔪𝔭𝔲𝔱𝔢𝔯 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔦𝔢𝔰, 𝔅𝔢𝔩𝔞𝔯𝔲𝔰𝔰𝔦𝔞𝔫 𝔖𝔱𝔞𝔱𝔢 𝔘𝔫𝔦𝔳𝔢𝔯𝔰𝔦𝔱𝔶
-- **ℭ𝔬𝔲𝔯𝔰𝔢𝔰**: 
+- ### **𝔻𝚎𝚐𝚛𝚎𝚎**: 
+    𝔹𝚊𝚌𝚑𝚎𝚕𝚘𝚛 𝚘𝚏 𝚁𝚊𝚍𝚒𝚘𝚙𝚑𝚢𝚜𝚒𝚌𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢, 𝙱𝚎𝚕𝚊𝚛𝚞𝚜𝚜𝚒𝚊𝚗 𝚂𝚝𝚊𝚝𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢
+- ### **ℂ𝚘𝚞𝚛𝚜𝚎𝚜**: 
   - [𝔐𝔞𝔠𝔥𝔦𝔫𝔢 𝔏𝔢𝔞𝔯𝔫𝔦𝔫𝔤 𝔉𝔲𝔫𝔡𝔞𝔪𝔢𝔫𝔱𝔞𝔩𝔰](link_to_course1)
   - [𝔄𝔡𝔳𝔞𝔫𝔠𝔢𝔡 𝔚𝔢𝔟 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔪𝔢𝔫𝔱](link_to_course2)
 
@@ -54,10 +55,18 @@ I occasionally write about technology, programming, and other topics. Check out 
 - [Blog Post 2]: Getting Started with Machine Learning [Link to the blog post] -->
 
 ## 𝕮𝖔𝖓𝖙𝖆𝖈𝖙
-𝔉𝔢𝔢𝔩 𝔣𝔯𝔢𝔢 𝔱𝔬 𝔯𝔢𝔞𝔠𝔥 𝔬𝔲𝔱 𝔱𝔬 𝔪𝔢 𝔱𝔥𝔯𝔬𝔲𝔤𝔥:
-- 𝓔𝓶𝓪𝓲𝓵: yourname@example.com
-- 𝓛𝓲𝓷𝓴𝓮𝓭𝓘𝓷: [𝓨𝓸𝓾𝓻 𝓛𝓲𝓷𝓴𝓮𝓭𝓘𝓷 𝓟𝓻𝓸𝓯𝓲𝓵𝓮](link_to_linkedin)
-- 𝓣𝔀𝓲𝓽𝓽𝓮𝓻: [𝓨𝓸𝓾𝓻 𝓣𝔀𝓲𝓽𝓽𝓮𝓻 𝓟𝓻𝓸𝓯𝓲𝓵𝓮](link_to_twitter)
+𝔽𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑:
+<div id="badges">
+  <a href="https://t.me/light_across_eternal_void">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[ your-linkedin-URL](https://www.linkedin.com/in/arseny-cheplykov-5a457926a/)">
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## 𝕻𝖗𝖔𝖋𝖎𝖑𝖊𝖘
 - [𝓛𝓮𝓔𝓽𝓒𝓸𝓭𝓮](LeetCode Profile Link)
@@ -69,9 +78,9 @@ I occasionally write about technology, programming, and other topics. Check out 
 - [![𝓒𝓸𝓭𝓮𝓦𝓪𝓻𝓼 𝓑𝓪𝓭𝓰𝓮](badge2_url)](CodeWars Profile Link)
 
 ## 𝕯𝖞𝖓𝖆𝖒𝖎𝖈 𝕮𝖔𝖓𝖙𝖊𝖓𝖙 𝖆𝖓𝖉 𝕾𝖙𝖆𝖙𝖘
-𝔜𝔬𝔲 𝔠𝔞𝔫 𝔠𝔥𝔢𝔠𝔨 𝔬𝔲𝔱 𝔪𝔶 𝔩𝔞𝔱𝔢𝔰𝔱 𝔞𝔠𝔱𝔦𝔳𝔦𝔱𝔶 𝔞𝔫𝔡 𝔠𝔬𝔫𝔱𝔯𝔦𝔟𝔲𝔱𝔦𝔬𝔫𝔰 𝔦𝔫 𝔯𝔢𝔞𝔩-𝔱𝔦𝔪𝔢!
+𝕐𝚘𝚞 𝚌𝚊𝚗 𝚌𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚕𝚊𝚝𝚎𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 𝚒𝚗 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎!
 - [![𝓖𝓲𝓽𝓗𝓾𝓫 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 𝓖𝓻𝓪𝓹𝓱](github_activity_graph_url)](GitHub Profile Link)
 - [![𝓖𝓲𝓽𝓛𝓪𝓫 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼](gitlab_contributions_url)](GitLab Profile Link)
 
 ## 𝕿𝖍𝖆𝖓𝖐 𝖞𝖔𝖚!
-𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝒎𝒚 𝑮𝒊𝒕𝑳𝒂𝒃 𝒑𝒓𝒐𝒇𝒊𝒍𝒆. 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒆𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒂𝒏𝒅 𝒄𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔. 𝑳𝒐𝒐𝒌𝒊𝒏𝒈 𝒇𝒐𝒓𝒘𝒂𝒓𝒅 𝒕𝒐 𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖!
+𝕋𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝙶𝚒𝚝𝙻𝚊𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜. 𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛𝚠𝚊𝚛𝚍 𝚝𝚘 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞!
