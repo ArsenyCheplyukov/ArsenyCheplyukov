@@ -105,7 +105,7 @@
 
   <h3 align="center"> 📚 ℂ𝚘𝚞𝚛𝚜𝚎𝚜  </h3>
 
-  <h5 align="center">
+  <h5 align="left">
 
   - [_**ℕ𝚊𝚝𝚞𝚛𝚊𝚕 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝙿𝚛𝚘𝚌𝚎𝚜𝚜𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎**_](https://stepik.org/course/54098/syllabus)
     <a href="https://stepik.org/course/54098/syllabus"><img src="https://img.shields.io/badge/Stepik-54098-33cc33?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik Logo"><a href="https://stepik.org/cert/972391">🏆</a></a>
