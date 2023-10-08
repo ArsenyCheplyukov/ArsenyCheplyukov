@@ -4,9 +4,11 @@
 
 ---
 <h1 align="center"> 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝔸𝕣𝕤𝕖𝕟𝕪'𝕤 𝐏𝕣𝕠𝕗𝕚𝕝𝕖! </h1>
-  <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+𝕀'𝚖+𝔸𝚛𝚜𝚎𝚗𝚢+ℂ𝚑𝚎𝚙𝚕𝚢𝚞𝚔𝚘𝚟!;" />
-  </h3>
+
+<h3 align=center>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+𝕀'𝚖+𝔸𝚛𝚜𝚎𝚗𝚢+ℂ𝚑𝚎𝚙𝚕𝚢𝚞𝚔𝚘𝚟!;" />
+</h3>
+
   𝙸'𝚊𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜, 𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚊𝚗𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐. 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚊𝚝 𝚖𝚊𝚔𝚎 𝚊 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚌𝚎.
 
 ---
@@ -147,21 +149,37 @@
 
 ---
 
-## <h2 align="center"> ⚡ Github Statistics ⚡ </h2>
+## <h2 align="center"> ⚡ 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈𝖘 ⚡ </h2>
 𝕐𝚘𝚞 𝚌𝚊𝚗 𝚌𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚕𝚊𝚝𝚎𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 𝚒𝚗 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎!
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=ArsenyCheplyukov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ArsenyCheplyukov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ArsenyCheplyukov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ArsenyCheplyukov&theme=discord&border_radius=10&size_weight=0.5&count_weight=0.5" alt="trophies" />
 </div>
+
+<div align=center>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ArsenyCheplyukov&theme=react&border_radius=30&size_weight=0.5&count_weight=0.5" alt="graph" />
+</div>
+
+<div align=center>
+  <!-- INSTALL WAKATIME -->
+  <!-- <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArsenyCheplyukov&layout=compact&theme=blue-green&border_radius=10&size_weight=0.5&count_weight=0.5" alt="wakatime" /> -->
+  <img width="390" src="https://streak-stats.demolab.com/?user=ArsenyCheplyukov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ArsenyCheplyukov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ArsenyCheplyukov&langs_count=12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
 
 ---
 
 ## <h2 align="center"> 🙏 𝕿𝖍𝖆𝖓𝖐 𝖞𝖔𝖚! 🙏 </h2>
+
 𝕋𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝙶𝚒𝚝𝙻𝚊𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜. 𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛𝚠𝚊𝚛𝚍 𝚝𝚘 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞!
 
----
+𝕊𝚘 𝚑𝚎𝚛𝚎 𝚒𝚜 𝚊 𝚛𝚊𝚗𝚍𝚘𝚖 𝚓𝚘𝚔𝚎 𝚝𝚑𝚊𝚝'𝚕𝚕 𝚖𝚊𝚔𝚎 𝚢𝚘𝚞 𝚕𝚊𝚞𝚐𝚑 😂
+<div align=center>
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+</div>
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgitlab.com%2FArsenyCheplyukov&label=VISITORS&countColor=%23263759&style=flat&labelStyle=upper)
