@@ -56,7 +56,7 @@
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
     </p>
 
-  - ### 🤖 **𝔻𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑨𝑰**:
+  - ### 🤖 **𝔻**𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑨𝑰:
     <p align="left">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -73,7 +73,7 @@
       <img src="https://img.shields.io/badge/SQLAlchemy-15B0A7?style=for-the-badge" alt="SQLAlchemy" />
     </p>
 
-  - ### 🌐 **𝕎𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**:
+  - ### 🌐 **𝕎**𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕:
     <p align="left">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -85,13 +85,13 @@
       <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
     </p>
 
-  - ### 🔄 **𝕍𝒆𝒓𝒔𝒊𝒐𝒏 𝑪𝒐𝒏𝒕𝒓𝒐𝒍**:
+  - ### 🔄 **𝕍**𝒆𝒓𝒔𝒊𝒐𝒏 𝑪𝒐𝒏𝒕𝒓𝒐𝒍:
     <p align="left">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     </p>
 
-  - ### 🚀 **𝕎𝒆𝒃 𝑺𝒆𝒓𝒗𝒆𝒓𝒔 𝒂𝒏𝒅 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕** :
+  - ### 🚀 **𝕎**𝒆𝒃 𝑺𝒆𝒓𝒗𝒆𝒓𝒔 𝒂𝒏𝒅 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕:
     <p align="left">
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
       <img src="https://img.shields.io/badge/Gunicorn-37803D?style=for-the-badge" alt="Gunicorn" />
@@ -131,7 +131,7 @@
     <a href="https://t.me/light_across_eternal_void">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="[ your-linkedin-URL](https://www.linkedin.com/in/arseny-cheplyukov/)">
+    <a href="https://www.linkedin.com/in/arseny-cheplyukov/">
       <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://vk.com/light_across_eternal_void">
