@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</div>
+
 # Hi, I'm Arseny 👋
 
 **Python engineer — backend & data.** By day I build production APIs and data pipelines: FastAPI, PostgreSQL, Kafka, Redis, AWS, and lately Databricks/Spark on a lakehouse platform. By night I run a fully **self-hosted RAG stack** — my own LLM inference, embedding and reranking services wired into a document-search engine, no cloud APIs required.
@@ -32,7 +36,15 @@ Before all that I taught microcontrollers to do useful things: an ultrasonic fla
 - 🧩 [LeetCode](https://leetcode.com/ArsenyVoid) — occasional problem-solving sprints
 - 💼 [LinkedIn](https://www.linkedin.com/in/arseny-cheplyukov) · 📫 cheplucov32@gmail.com
 
-![Arseny's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArsenyCheplyukov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<div align=center>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ArsenyCheplyukov&theme=react&border_radius=30&size_weight=0.5&count_weight=0.5" alt="graph" />
+</div>
+
+<div align=center>
+  <img width="390" src="https://streak-stats.demolab.com/?user=ArsenyCheplyukov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ArsenyCheplyukov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ArsenyCheplyukov&langs_count=12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
 ---
 
