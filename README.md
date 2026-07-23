@@ -29,7 +29,7 @@ Before all that I taught microcontrollers to do useful things: an ultrasonic fla
 ## 📈 Elsewhere
 
 - 🤖 ML notebooks — GANs with honest FID tracking, transfer-learning ensembles, a transformer written from scratch: [Kaggle](https://www.kaggle.com/arsenycheplukov)
-- 🧩 [LeetCode](https://leetcode.com/ArsenyCheplyukov) — occasional problem-solving sprints
+- 🧩 [LeetCode](https://leetcode.com/ArsenyVoid) — occasional problem-solving sprints
 - 💼 [LinkedIn](https://www.linkedin.com/in/arseny-cheplyukov) · 📫 cheplucov32@gmail.com
 
 ![Arseny's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArsenyCheplyukov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
