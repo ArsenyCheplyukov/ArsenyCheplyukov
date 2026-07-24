@@ -10,7 +10,7 @@ Before all that I taught microcontrollers to do useful things: an ultrasonic fla
 
 ## 🔭 Building now
 
-- **norma-search** — self-hosted RAG search engine for regulatory documents: hybrid retrieval (vector + full-text, RRF), cross-encoder reranking, bounded multi-hop, ~770 backend tests. *(private while it's raw — ask me for a demo)*
+- **norma-search** — private RAG engine: hybrid retrieval + cross-encoder reranking on a self-hosted inference stack (~6× accuracy gain on a domain benchmark)
 - [**ollama-serve**](https://github.com/ArsenyCheplyukov/ollama-serve) — lifecycle wrapper for local LLM inference: OpenAI-compatible API, VRAM hygiene, systemd
 - [**embed-serve**](https://github.com/ArsenyCheplyukov/embed-serve) — local embedding service for RAG pipelines (ONNX / PyTorch backends)
 - [**reranker-serve**](https://github.com/ArsenyCheplyukov/reranker-serve) — cross-encoder reranking microservice
@@ -38,18 +38,7 @@ Before all that I taught microcontrollers to do useful things: an ultrasonic fla
 
 <div align=center>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ArsenyCheplyukov&theme=react&border_radius=30&size_weight=0.5&count_weight=0.5" alt="graph" />
-</div>
-
-<div align=center>
-  <img width="390" src="https://streak-stats.demolab.com/?user=ArsenyCheplyukov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ArsenyCheplyukov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ArsenyCheplyukov&langs_count=12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 ---
-
-😄 **One for the road:**
-
-![Joke Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-*Regenerates on every visit — if it's bad, refresh for a better one. Same policy I apply to my code.*
